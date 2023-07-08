@@ -1,5 +1,5 @@
 # 💫About Me :
-👱‍♂️I was born in 2001 
+👱‍♂️I was born in 2001 /n
 🔭 I'm a student at Sai Gon University 
 ⚡ Being a data scientist is my dream
 
